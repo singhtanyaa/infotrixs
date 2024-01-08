@@ -1,0 +1,1 @@
+@py.exe D:\Intersship Ass\weather\weather.py%*
